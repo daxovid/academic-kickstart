@@ -18,20 +18,20 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include science identity, culture, and education.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Biology Education
+- Social Studies of Science
+- Curriculum Studies
 
 education:
   courses:
-  - course: Ph.D. in Integrative Biology
-    institution: U.C. Berkeley
+  - course: Ph.D., Integrative Biology
+    institution: University of California, Berkeley
     year: 2017
-  - course: B.A. in Integrative Biology & Italian Studies
-    institution: U.C. Berkeley
+  - course: B.A., Integrative Biology & Italian Studies
+    institution: University of California, Berkeley
     year: 2011
 
 # Social/Academic Networking
@@ -41,16 +41,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'  # For a direct email link, use "mailto:daxovid@sfsu.edu".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/DaxOvid
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://scholar.google.com/citations?user=FZ8TqMcAAAAJ&hl=en
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -62,11 +59,9 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+# user_groups:
+# - Researchers
+# - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Dax Ovid is a biology and data science education researcher who studies interdisciplinary approaches to teaching and learning for STEM graduate and undergraduate students. Dax seeks to identify challenges impeding systemic pedagogical innovation in the sciences and to investigate inclusive practices in higher education that foster belonging. Their research aims to expand the defining features of “being a scientist” in the 21st century for current and future scientists.
