@@ -66,3 +66,5 @@ email: ""
 ---
 
 Dax Ovid is a biology and data science education researcher who studies interdisciplinary approaches to teaching and learning for STEM graduate and undergraduate students. Dax seeks to identify challenges impeding systemic pedagogical innovation in the sciences and to investigate inclusive practices in higher education that foster belonging. Their research aims to expand the defining features of “being a scientist” in the 21st century for current and future scientists.
+
+[Curriculum Vitae] (https://www.daxovid.com/files/cv.pdf)
